@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GRNNs"]
+	path = GRNNs
+	url = https://github.com/shufeng-li/grnns
+	shallow = true
+	registered = true
